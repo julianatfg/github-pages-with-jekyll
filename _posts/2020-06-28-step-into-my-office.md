@@ -1,3 +1,8 @@
+---
+title: "Step into my office, baby"
+date: 2020-06-28
+---
+
 # *Step into my office, baby*
 
 She called me up today\
