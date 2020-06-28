@@ -2,7 +2,7 @@
 
 I'm glad you are here. I plan to talk about books.
 
-## "Wrapped up in books"
+### Wrapped up in books
 
 It was pretty bright, up on the rainbow bridge tonight\
 I could see into your window although you're far away\
@@ -34,4 +34,4 @@ I've been travelling abroad\
 We've got a fantasy affair\
 We didn't get wet, we didn't dare\
 Our aspirations, are wrapped up in books\
-Our inclinations are hidden in looks\
+Our inclinations are hidden in looks
